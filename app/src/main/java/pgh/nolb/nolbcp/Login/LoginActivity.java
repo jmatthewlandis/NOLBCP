@@ -1,5 +1,6 @@
 package pgh.nolb.nolbcp.Login;
 
+import pgh.nolb.nolbcp.R;
 import android.app.ProgressDialog;
 import android.content.Intent;
 import android.os.Bundle;
@@ -19,7 +20,6 @@ import com.google.android.gms.common.api.OptionalPendingResult;
 import com.google.android.gms.common.api.ResultCallback;
 import com.google.android.gms.common.api.Status;
 
-import pgh.nolb.nolbcp.R;
 
 /**
  * Activity implements simple Google Sign-in for the app

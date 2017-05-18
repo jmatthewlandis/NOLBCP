@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_c36c052e40b851d8a678b94adb274596d854e200\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_e1f215263f64c7b57730b223435e2a5b9d54baa5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_341d82fff094965e465c0451798026796a81cb11\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_97c56f4064e1a410558d8f07680fb185219f08cd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_a961a2708f938af3a06c894e330cc70b7c5721b2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_b61b71f499b332403c619c9d0503fe9c3b053c89\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_d653171ff6c74fe7a0094e092953d7b4fc829b9f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="35049d22b494a37762026ac8b77be2985e56d245">
+        <dex dex="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_56c426ec035000ec021684fb83b89c9832ddf7ed\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_45aeab3465ee5f518539e356415996306c2510a7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_6691264f024a845c9b9e2d7ad9be103f48730965\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_15accaf79539f8315232bba5c7847057a8bd6214\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_bd77c2dc979d0c9bdbb9420f5b9ac2cd5d056027\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.3.1_90928123b86add4eeda44f72c8c0c4a2f45b67c2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_eeb5f27f5a923c59c92657bdcbc053f3b068e774\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.8.0_49cac182b06e9fdce2bc48863231a60d46350f76\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c58b6fa0d467c051478e3345a9820d7f267b42a0">
+        <dex dex="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b36dbff1b1db2866446cee6776909117aad75214\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_7d28a815bfa064e4d43adc03ef71723738350be8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.8.0_1ed3ff96d6a52637facad1511857c4e4fdf94b4e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.3.1_48fa235b19b69c64fde3d3736d35c94c155fb42e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_4835374222e37b5aaf41e903ee70454a7ecc219e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_7716b210b47826135440212948b65bf2d1f78eb9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jml168\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_18728003ad612274207b414c793ad8f18aaed5ac\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_50576a45234a2c93f647a9a380d5e6e586da3871\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\jml168\Documents\GitHub\NOLBCP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.3.1_da6100c32ca0212f115a61ad2c353cb6968daff9\classes.dex" />
+    </item>
+
+</items>
