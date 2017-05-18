@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "83154926984",
+    "project_id": "nolb-cp"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83154926984:android:71fb673c901e5b12",
+        "android_client_info": {
+          "package_name": "pgh.nolb.nolbcp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83154926984-ec86uvuovpsb9uigrjmi67voqlcg4sbh.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "83154926984-53qa11qd4eb5eu08ck8du8ft9sm06t2u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pgh.nolb.nolbcp",
+            "certificate_hash": "e1edcd37ee8d42d6d63d35b4e6a8ec9bb0281528"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3o-w1D6HggJzcijQEa0CREYvagVC1wLo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
